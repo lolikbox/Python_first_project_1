@@ -13,6 +13,6 @@ def star(n):
             print ("*", end="")
         print(" ")
 
-#print('Square of your number is ',square(int(input('Enter a number: '))))
-#print('Your annual salary is ',annual_salary(int(input('Enter a daily profit: '))))
+print('Square of your number is ',square(int(input('Enter a number: '))))
+print('Your annual salary is ',annual_salary(int(input('Enter a daily profit: '))))
 star(int(input('Enter a number of lines: ')))
