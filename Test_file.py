@@ -16,4 +16,4 @@ def star(n):
 print('Square of your number is ',square(int(input('Enter a number: '))))
 print('Your annual salary is ',annual_salary(int(input('Enter a daily profit: '))))
 star(int(input('Enter a number of lines: ')))
-print('I am on the new First_branch')
+print('I am on the new Second_branch')
